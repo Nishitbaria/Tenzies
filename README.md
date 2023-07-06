@@ -1,5 +1,3 @@
-Certainly! Here's the updated readme with the added screenshot section:
-
 # Tenzies
 
 Tenzies is a dice game where the objective is to make all the numbers on the dice the same. Once you achieve this, you win the game!
